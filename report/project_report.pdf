@@ -1,0 +1,45 @@
+# Project Report
+
+   ## Title
+   MOSFET Amplifier Simulation using Python
+
+   ## Author
+   Your Name Here
+
+   ## Description
+   This project simulates a Common Source MOSFET Amplifier.
+   It covers DC biasing, Q-point calculation, voltage gain,
+   and ID vs VDS characteristic curves.
+
+   ## Files
+   - simulations/ — Python simulation scripts
+   - theory/      — MOSFET theory and design notes
+   - graphs/      — Auto-generated simulation graphs
+   - utils/       — Constants and helper functions
+
+   ## How to Run
+   pip install -r requirements.txt
+   python main.py
+
+   ## Status
+   🚧 Report in progress — PDF will be added soon
+```
+5. **"Commit changes"** dabao
+6. Green **"Commit changes"** button dabao ✅
+
+---
+
+## 🎉 Bhai Congratulations!
+
+Tera **poora project structure** ready hai! Ab tera repo kuch aisa dikhega:
+```
+NextStep/
+├── README.md          ✅
+├── requirements.txt   ✅
+├── .gitignore         ✅
+├── main.py            ✅
+├── simulations/       ✅
+├── utils/             ✅
+├── graphs/            ✅
+├── theory/            ✅
+└── report/            ✅
